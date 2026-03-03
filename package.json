@@ -1,0 +1,15 @@
+{
+  "name": "com.unity.ide.ai",
+  "displayName": "AI Code Editor",
+  "description": "AI code editor integration for supporting Cursor/Qoder/Codium/Trae/Antigravity as code editor for Unity. Adds support for generating csproj files for intellisense purposes, auto discovery of installations, etc.",
+  "version": "2.0.28",
+  "unity": "2019.4",
+  "unityRelease": "25f1",
+  "dependencies": {
+    "com.unity.test-framework": "1.1.9"
+  },
+  "_upm": {
+    "changelog": "Integration:\n\n- Add Trae IDE support with reuse window option\n- Add Google Antigravity IDE support"
+  },
+  "_fingerprint": "53e1baac3cde90c46934f82ee1d61802d2bd6651"
+}
