@@ -2,12 +2,9 @@
 - Unity -> Window -> Package Manager  
 - Click "+" at the top left corner  
 - Add package from git URL  
-- Insert `https://github.com/boxqkrtm/com.unity.ide.cursor.git`  
+- Insert `https://github.com/JupiterTheWarlock/unity-ide-ai.git`  
 - Add  
 - Done
 
-> **Important Notice for Users Updating from Older Versions**  
-> Starting from version **v2.0.24**, the package name has been changed from  
-> `com.unity.ide.cursor` to `com.boxqkrtm.ide.cursor` to prevent potential issues with Unity regarding attribution.  
-> Violating these attribution rules may trigger warnings in Unity.  
-> If you experience errors during the update, please remove the existing package before reinstalling the new one to avoid conflicts.
+> **Note**
+> This is `com.unity.ide.ai` - an AI code editor integration package for Unity that supports multiple AI-powered code editors including Cursor, Qoder, Codium, Trae, and Antigravity.
